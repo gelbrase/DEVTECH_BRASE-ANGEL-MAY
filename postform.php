@@ -11,7 +11,7 @@ div {
 }
 h1{
     width: 500px;
-    background-color: #86CEEB;
+    background-color: #87CEEB;
     text-align: center;
 }
 h2 {
