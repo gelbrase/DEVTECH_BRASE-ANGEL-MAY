@@ -5,13 +5,13 @@
     <style>
 div {
   width: 100px;
-  background-color: skyblue;
+  background-color: #87CEEB;
   text-align:  center;
  
 }
 h1{
     width: 500px;
-    background-color: skyblue;
+    background-color: #86CEEB;
     text-align: center;
 }
 h2 {
